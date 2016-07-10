@@ -1,4 +1,4 @@
-.DS_Store
-node_modules/
-temp/
+*.txt
 coverage
+node_modules
+temp
